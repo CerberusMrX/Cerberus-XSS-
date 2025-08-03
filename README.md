@@ -21,6 +21,8 @@
 
 ## 🛠️ Installation
 
+<img width="1640" height="921" alt="image" src="https://github.com/user-attachments/assets/2cbe8191-44e6-4773-abbd-9cd052e3a3b3" />
+
 Cerberus XSS is built for **Kali Linux** and uses a Python virtual environment.
 
 ```bash
@@ -43,5 +45,4 @@ pip install -r requirements.txt
 
 # 6. python cerberus_xss.py
 
-<img width="1640" height="921" alt="image" src="https://github.com/user-attachments/assets/2cbe8191-44e6-4773-abbd-9cd052e3a3b3" />
 
