@@ -43,6 +43,7 @@ source venv/bin/activate
 # 5. Install Dependenciespython cerberus_xss.py
 pip install -r requirements.txt
 
-# 6. python cerberus_xss.py
+# 6. All Done
+python cerberus_xss.py
 
 
